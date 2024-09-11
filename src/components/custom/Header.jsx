@@ -113,7 +113,7 @@ function Header() {
               <div className="flex justify-start items-center">
                 <img src="/Logo.svg" />
                 <span className="text-black font-bold text-2xl">
-                  Yatra Sathi
+                  AI-TRIP-PLANNER
                 </span>
               </div>
               <h2 className="font-bold text-lg mt-7">Sign In With Google</h2>
